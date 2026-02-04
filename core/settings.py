@@ -62,6 +62,7 @@ INSTALLED_APPS = [
     'users',
     'rest_framework_simplejwt.token_blacklist',
     'drf_spectacular',
+    'products',
 ]
 AUTH_USER_MODEL = 'users.User'
 MIDDLEWARE = [
@@ -155,6 +156,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
 
 
 from datetime import timedelta

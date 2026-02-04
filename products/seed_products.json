@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Charger",
+    "description": "Fast wireless charging pad",
+    "size": "",
+    "available": true,
+    "rating": "4.60",
+    "image": "https://images.unsplash.com/photo-1580910051074-7c62c13c6b94",
+    "color": "Black",
+    "created_at": "2025-12-17T10:00:00Z",
+    "detail": {
+      "description": "15W fast wireless charger compatible with iPhone and Android devices.",
+      "material": "ABS Plastic",
+      "warranty": "6 Months",
+      "usage": "Home & Office"
+    }
+  },
+  {
+    "id": 2,
+    "name": "USB-C Cable",
+    "description": "Fast charging cable",
+    "size": "1m",
+    "available": true,
+    "rating": "4.40",
+    "image": "https://images.unsplash.com/photo-1610465299993-e6675c9f9efa",
+    "color": "White",
+    "created_at": "2025-12-17T10:05:00Z",
+    "detail": {
+      "description": "Durable USB-C cable with fast data and power delivery.",
+      "material": "Nylon Braided",
+      "warranty": "3 Months",
+      "usage": "Mobile & Laptop"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Headphones",
+    "description": "Wireless over-ear headphones",
+    "size": "",
+    "available": true,
+    "rating": "4.70",
+    "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439",
+    "color": "Black",
+    "created_at": "2025-12-17T10:10:00Z",
+    "detail": {
+      "description": "Noise-isolating Bluetooth headphones with 20h battery life.",
+      "material": "Plastic & Foam",
+      "warranty": "1 Year",
+      "usage": "Music & Calls"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "description": "Fitness tracking smartwatch",
+    "size": "42mm",
+    "available": true,
+    "rating": "4.50",
+    "image": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
+    "color": "Silver",
+    "created_at": "2025-12-17T10:15:00Z",
+    "detail": {
+      "description": "Tracks steps, heart rate, sleep, and workouts.",
+      "material": "Aluminum",
+      "warranty": "1 Year",
+      "usage": "Fitness & Health"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Laptop Backpack",
+    "description": "Water resistant backpack",
+    "size": "15.6 inch",
+    "available": true,
+    "rating": "4.80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa",
+    "color": "Grey",
+    "created_at": "2025-12-17T10:20:00Z",
+    "detail": {
+      "description": "Comfortable backpack with laptop protection and USB port.",
+      "material": "Polyester",
+      "warranty": "6 Months",
+      "usage": "Travel & Work"
+    }
+  },
+
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "description": "Lightweight sports shoes",
+    "size": "42",
+    "available": true,
+    "rating": "4.60",
+    "image": "https://images.unsplash.com/photo-1528701800489-20be9c1b0f25",
+    "color": "Black",
+    "created_at": "2025-12-17T10:25:00Z",
+    "detail": {
+      "description": "Breathable running shoes for daily workouts.",
+      "material": "Mesh & Rubber",
+      "warranty": "No Warranty",
+      "usage": "Running & Gym"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Office Chair",
+    "description": "Ergonomic chair",
+    "size": "",
+    "available": true,
+    "rating": "4.30",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
+    "color": "Black",
+    "created_at": "2025-12-17T10:30:00Z",
+    "detail": {
+      "description": "Comfortable ergonomic chair with lumbar support.",
+      "material": "Leather & Metal",
+      "warranty": "1 Year",
+      "usage": "Office"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Desk Lamp",
+    "description": "LED desk lamp",
+    "size": "",
+    "available": true,
+    "rating": "4.20",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "color": "White",
+    "created_at": "2025-12-17T10:35:00Z",
+    "detail": {
+      "description": "Eye-care LED lamp with adjustable brightness.",
+      "material": "Plastic",
+      "warranty": "6 Months",
+      "usage": "Study & Office"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Wireless Mouse",
+    "description": "Bluetooth mouse",
+    "size": "",
+    "available": true,
+    "rating": "4.40",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "color": "Black",
+    "created_at": "2025-12-17T10:40:00Z",
+    "detail": {
+      "description": "Smooth and silent wireless mouse.",
+      "material": "Plastic",
+      "warranty": "3 Months",
+      "usage": "Office & Home"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Keyboard",
+    "description": "Mechanical keyboard",
+    "size": "",
+    "available": true,
+    "rating": "4.70",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "color": "Black",
+    "created_at": "2025-12-17T10:45:00Z",
+    "detail": {
+      "description": "Mechanical keyboard with RGB lighting.",
+      "material": "Metal & Plastic",
+      "warranty": "1 Year",
+      "usage": "Gaming & Work"
+    }
+  },
+
+  {
+    "id": 11,
+    "name": "Power Bank",
+    "description": "10000mAh power bank",
+    "size": "",
+    "available": true,
+    "rating": "4.50",
+    "image": "https://images.unsplash.com/photo-1597764699513-ec7e8c8fbb6c",
+    "color": "Black",
+    "created_at": "2025-12-17T10:50:00Z",
+    "detail": {
+      "description": "Fast charging portable power bank.",
+      "material": "Plastic",
+      "warranty": "6 Months",
+      "usage": "Travel"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Water Bottle",
+    "description": "Insulated bottle",
+    "size": "1L",
+    "available": true,
+    "rating": "4.80",
+    "image": "https://images.unsplash.com/photo-1526401485004-2fda9f7d44e3",
+    "color": "Blue",
+    "created_at": "2025-12-17T10:55:00Z",
+    "detail": {
+      "description": "Keeps drinks cold or hot for hours.",
+      "material": "Stainless Steel",
+      "warranty": "No Warranty",
+      "usage": "Outdoor & Gym"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Sunglasses",
+    "description": "UV protection sunglasses",
+    "size": "",
+    "available": true,
+    "rating": "4.30",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+    "color": "Black",
+    "created_at": "2025-12-17T11:00:00Z",
+    "detail": {
+      "description": "Stylish sunglasses with UV400 protection.",
+      "material": "Plastic",
+      "warranty": "No Warranty",
+      "usage": "Outdoor"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Notebook",
+    "description": "Hardcover notebook",
+    "size": "A5",
+    "available": true,
+    "rating": "4.10",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+    "color": "Brown",
+    "created_at": "2025-12-17T11:05:00Z",
+    "detail": {
+      "description": "Premium paper notebook for notes.",
+      "material": "Paper",
+      "warranty": "No Warranty",
+      "usage": "Study & Office"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Pen Set",
+    "description": "Smooth ink pens",
+    "size": "",
+    "available": true,
+    "rating": "4.20",
+    "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5",
+    "color": "Blue",
+    "created_at": "2025-12-17T11:10:00Z",
+    "detail": {
+      "description": "Set of smooth-flow ballpoint pens.",
+      "material": "Plastic",
+      "warranty": "No Warranty",
+      "usage": "Writing"
+    }
+  }
+]

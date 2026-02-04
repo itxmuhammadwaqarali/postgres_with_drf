@@ -11,6 +11,7 @@ psycopg2-binary==2.9.11
 PyJWT==2.10.1
 PyYAML==6.0.3
 referencing==0.37.0
+requests==2.31.0
 rpds-py==0.30.0
 sqlparse==0.5.4
 typing_extensions==4.15.0
